@@ -8,6 +8,14 @@ public class PracticeSampleGit
 		public void sampleGit()
 		{
 			System.out.println("Amit--- 1st commit");
+			
+			
+			
+			
+			
+			
+			
+			System.out.println("Vivek first commit");
 		}
 
 }
